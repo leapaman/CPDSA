@@ -22,3 +22,4 @@ int main()
 	int l=0;
 	cout<<Binarysearch(arr,l,h-1)<<endl;
 }
+//done
