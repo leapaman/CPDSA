@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
  
 using namespace std; 
-
+#great
 
 bool findPair(int arr[], int size, int n);
 
