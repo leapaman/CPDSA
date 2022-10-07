@@ -1,9 +1,11 @@
+//imporitng required library
 #include <algorithm>
 #include <iostream>
 #include <vector>
 
 using std::vector;
 
+//function for getting majority element
 int get_majority_element(vector<int> &a, int left, int right) {
     if (left == right) return -1;
     if (left + 1 == right) return a[left];
