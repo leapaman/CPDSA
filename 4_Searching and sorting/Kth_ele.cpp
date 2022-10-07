@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//implementing binary search for the process
 int Binarysearch(int arr[],int l,int h)
 {
     int mid=l+(h-l)/2;
