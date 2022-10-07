@@ -19,4 +19,4 @@ Question are from:
 -->Dynamic programming
 -->Bit manupulation
 -->Trie
-Questions from other topic are also going to be added.
+Questions from other topic are also going to be added, Like Binary tree, Tries, ENcoding and more.
