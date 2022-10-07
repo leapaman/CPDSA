@@ -4,7 +4,7 @@ using namespace std;
 
 
  // } Driver Code Ends
-
+//Three pointer method
 class Solution{
     public:
     //Function to find if there exists a triplet in the 
@@ -28,7 +28,7 @@ class Solution{
      }
      return 0;
     }
-
+//Soting and then having three pointer to look for  the sum
 };
 
 // { Driver Code Starts.
